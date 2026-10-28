@@ -18,7 +18,7 @@ I build backend services and APIs with Java, Spring Boot, and Python. I’m inte
 |---|---|---|
 | [Student Management API](https://github.com/Akash-Shanmugavadivel/Student-Management-API) | CRUD REST endpoints backed by Spring Data JPA | Java, Spring Boot, Maven |
 | [Interactive Learning Platform](https://github.com/Akash-Shanmugavadivel/Interactive-Learning-Platform) | Desktop learning app with courses, quizzes, and progress tracking | Java Swing, JDBC, MySQL |
-| [Food Delivery](https://github.com/Akash-Shanmugavadivel/Food-Delivery-MERN) | Restaurant browsing and ordering frontend | React, TypeScript, Vite |
+| [LingoFlow AI](https://github.com/Akash-Shanmugavadivel/LingoFlow-AI) | German conversation practice with contextual corrections and translation | Next.js, Genkit, AI |
 
 ## Technologies
 
